@@ -1,2 +1,2 @@
-*pianstore.web.id
+*
 ava.game.naver.com
