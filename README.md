@@ -27,27 +27,27 @@ jq --version
 Jika belum terinstall:
 - Ubuntu/Debian:
   ```
-  <pre><code>sudo apt install jq</code></pre>
+  sudo apt install jq
   ```
 - CentOS/RHEL:
   ```
-  <pre><code>sudo yum install jq</code></pre>
+  sudo yum install jq
   ```
 - Termux:
   ```
-  <pre><code>apt install jq</code></pre>
+  apt install jq
   ```
   ```
-  <pre><code>termux-setup-storage</code></pre>
+  termux-setup-storage
   ```
   
   ### 2. Tahap Install
 
 ```
-<pre><code>git clone https://github.com/pianstore/wilcard-worker.git
+git clone https://github.com/pianstore/wilcard-worker.git
 cd wilcard-worker
 chmod +x *
-./menu</code></pre>
+./menu
 ```
 
 
