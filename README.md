@@ -44,8 +44,8 @@ Jika belum terinstall:
   ### 2. Tahap Install
 
 ```
-<pre><code>git clone https://github.com/pianstore/wildcard.git
-cd wildcard
+<pre><code>git clone https://github.com/pianstore/wilcard-worker.git
+cd wilcard-worker
 chmod +x *
 ./menu</code></pre>
 ```
