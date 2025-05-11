@@ -50,6 +50,11 @@ chmod +x *
 ./menu
 ```
 
+### 3. HAPUS DATA
+```
+rm -rf  wilcard-worker
+```
+
 
 
 ## Menggunakan Fitur Tools
