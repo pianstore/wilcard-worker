@@ -73,6 +73,7 @@ while true; do
     4)
       show_loading
       bash worker.js
+      ;;
     0)
       echo -e "\n${RED}▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄${NC}"
       echo -e "${RED}           DEV PIAN STORE  TQ       ${NC}"
