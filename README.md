@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Capriola&size=29&pause=1000&color=F70000&background=A967EA1B&center=true&vCenter=true&width=435&height=40&lines=PIAN+STORE; WILCARD WILKER" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Capriola&size=29&pause=1000&color=F70000&background=A967EA1B&center=true&vCenter=true&width=435&height=40&lines=PIAN+STORE;WILCARD WILKER" alt="Typing SVG" /></a>
 
 # Pandangan Penggunaan Script
 
